@@ -476,3 +476,7 @@ StockNot nasceu da necessidade de controlar estoque de forma simples, rápida e 
 ---
 
 Soluções em Estoques Ágeis para Empresas Modernas
+
+## Obigetivo do site
+
+O StockNot foi criado para ajudar as empresas novatasa na organização de produtos, alciliando no cadastro de novos produtos. O sistema busca facilitar o controle de mercadorias, evitando ao maximo a falta ou excesso de produtos.
