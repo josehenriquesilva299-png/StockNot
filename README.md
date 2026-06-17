@@ -6,7 +6,7 @@ Se você está cansado de lidar com planilhas confusas e surpresas com estoque b
 
 ---
 
-## 🎯 Objetivo do Projeto
+## Objetivo do Projeto
 
 **StockNot foi criado para ajudar empresas na organização de produtos, auxiliando no cadastro de novos produtos. O sistema busca facilitar o controle de mercadorias, evitando ao máximo problemas com estoque desorganizado.**
 
