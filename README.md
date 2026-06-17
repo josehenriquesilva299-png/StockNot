@@ -4,6 +4,16 @@ Bem-vindo ao StockNot! Solução simples e eficaz para controlar estoque da sua 
 
 Se você está cansado de lidar com planilhas confusas e surpresas com estoque baixo, encontrou a solução certa.
 
+---
+
+## 🎯 Objetivo do Projeto
+
+**StockNot foi criado para ajudar empresas na organização de produtos, auxiliando no cadastro de novos produtos. O sistema busca facilitar o controle de mercadorias, evitando ao máximo problemas com estoque desorganizado.**
+
+Soluções em Estoques Ágeis para Empresas Modernas
+
+---
+
 ## Por que o StockNot?
 
 O StockNot permite que você:
@@ -461,9 +471,7 @@ O projeto tem potencial para as seguintes melhorias:
 
 Caso tenha dúvidas ou encontre problemas, abra uma Issue no GitHub com uma descrição detalhada do problema.
 
-## Sobre o Projeto
-
-StockNot nasceu da necessidade de controlar estoque de forma simples, rápida e eficaz para pequenas e médias empresas.
+## Informações do Projeto
 
 - **Criado por**: josehenriquesilva299-png
 - **Ano**: 2026
@@ -474,9 +482,3 @@ StockNot nasceu da necessidade de controlar estoque de forma simples, rápida e 
 - **Tecnologias**: PHP, HTML5, CSS3, JavaScript, MySQL
 
 ---
-
-Soluções em Estoques Ágeis para Empresas Modernas
-
-## Obigetivo do site
-
-O StockNot foi criado para ajudar as empresas novatasa na organização de produtos, alciliando no cadastro de novos produtos. O sistema busca facilitar o controle de mercadorias, evitando ao maximo a falta ou excesso de produtos.
